@@ -1,0 +1,5 @@
+﻿  cardfunctions.cpp
+C:\Users\artem\source\repos\credit_card_validator\credit_card_validator\cardfunctions.cpp(168,15): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  credit_card_validator.vcxproj -> C:\Users\artem\source\repos\credit_card_validator\Debug\credit_card_validator.exe
